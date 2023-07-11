@@ -3,10 +3,11 @@
 void greet()
 {
 	//Print some text
-	std::cout << "Welcome :D \n\n\n";
+	std::cout << "Not welcome >:D \n\n\n";
 }
 
 int main()
 {
+	// greet the user
 	greet();
 }
