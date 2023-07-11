@@ -1,5 +1,6 @@
 #include <iostream>
 int main()
 {
-	std::cout << "Main func \n\n";
+	//Print some text
+	std::cout << "Welcome :D \n\n";
 }
